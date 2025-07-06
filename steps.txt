@@ -1,0 +1,5 @@
+1. to know github, he have to follow ci make one folder.
+2. make folder .github inside tat one more folder workflows.
+3. now create a file inside that filename.yaml.
+4. then create test.py (here we tell if the 0utput is wrong what to print ) make this file because we have added 
+   that in yaml otherwise no need to make test.py.
